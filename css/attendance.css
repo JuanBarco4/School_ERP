@@ -1,0 +1,180 @@
+.attendance-background{
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+}
+
+.banner-attendance .arrow{
+    width: 1.2rem;
+    height: 2.05rem;
+}
+
+.attendance-background .holiday{
+    position: absolute;
+    width: 17.8rem;
+    height: 2.8rem;
+    padding-right: 1.4rem;
+    background: #96B1E5;
+    color: #FFFFFF;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 1.5rem;
+    text-decoration: none;
+    border-style: none;
+    cursor: pointer;
+    margin: 0rem 0rem 0rem 8.2rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.attendance-background .attendance{
+    position: absolute;
+    width: 10.1rem;
+    height: 2.8rem;
+    line-height: 1.6rem;
+    background: #FFFFFF;
+    color: #6688CA;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 1.5rem;
+    text-decoration: none;
+    border-style: none;
+    cursor: pointer;
+    margin: 0rem 0rem 0rem 8.2rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.attendance-background .estrellas{
+    width: 33.34rem;
+    align-self: center;
+    position: absolute;
+    top: 9rem;
+}
+
+.calendario{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    height: 681px;
+    margin-top: -0.8rem;
+}
+
+.calendario h2{
+    margin-top: -1.2rem;
+    font-size: 1.5rem;
+    color: var(--gris1);
+    text-align: center;
+}
+
+.calendario .right{
+    width: 0.75rem;
+    height: 1.32rem;
+    position: absolute;
+    margin: -1.2rem 0rem 0rem 30.41rem;
+}
+
+.calendario .left{
+    width: 0.75rem;
+    height: 1.32rem;
+    position: absolute;
+    margin: -1.2rem 0rem 0rem 0rem;
+}
+
+.calendario .calendar{
+    margin-top: 3.5rem;
+}
+
+.calendario .recuadro_1{
+    width: 31.5rem;
+    height: 4.7rem;
+    border: 0.1rem solid #E92020;
+    border-left: 1.5rem solid #E92020;
+    border-radius: 1.3rem;
+    margin-top: 3rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    color: var(--gris1);
+    padding-left: 1em;
+    text-decoration: none;
+    cursor:auto;
+}
+
+.calendario .recuadro_1 span{
+    width: 2.8rem;
+    height: 2.8rem;
+    background: #FFB1B1;
+    border-radius: 100%;
+    font-size: 1.3rem;
+    color: #E92020;;
+    font-weight: bold;
+    margin-right: 1rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.calendario .recuadro_2{
+    width: 31.5rem;
+    height: 4.7rem;
+    border: 0.1rem solid #0BAC00;
+    ;
+    border-left: 1.5rem solid #0BAC00;
+    border-radius: 1.3rem;
+    margin-top: 1.7rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    color: var(--gris1);
+    padding-left: 1rem;
+    text-decoration: none;
+    cursor:auto;
+}
+
+.calendario .recuadro_2 span{
+    width: 2.8rem;
+    height: 2.8rem;
+    background: #A9F2A4;
+    border-radius: 100%;
+    font-size: 1.3rem;
+    color: #0BAC00;
+    font-weight: bold;
+    margin-right: 1rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.vector{
+    width: 37.5rem;
+    height: 13.18rem;
+    position: absolute;
+    margin: 50rem 0rem 0rem -3rem;
+}
+
+section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.3rem;
+
+    display: flex;
+    flex-direction: column;
+}

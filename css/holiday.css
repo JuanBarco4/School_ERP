@@ -1,0 +1,191 @@
+.holiday-background{
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+}
+
+.banner-holiday .arrow{
+    width: 1.2rem;
+    height: 2.05rem;
+}
+
+.holiday-background .attendance{
+    position: absolute;
+    width: 17.8rem;
+    height: 2.8rem;
+    padding-left: 1.2rem;
+    background: #96B1E5;
+    color: #FFFFFF;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 1.5rem;
+    text-decoration: none;
+    border-style: none;
+    cursor: pointer;
+    margin: 0rem 0rem 0rem 8.2rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.holiday-background .holiday{
+    position: absolute;
+    width: 8.3rem;
+    height: 2.8rem;
+    line-height: 1.6rem;
+    background: #FFFFFF;
+    color: #6688CA;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 1.5rem;
+    text-decoration: none;
+    border-style: none;
+    cursor: pointer;
+    margin: 0rem 0rem 0rem 17.7rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.holiday-background .estrellas{
+    width: 33.34rem;
+    align-self: center;
+    position: absolute;
+    top: 9rem;
+}
+
+.list-holiday{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    margin-top: 2.5rem;
+}
+
+.list-holiday h2{
+    margin-top: -1.2rem;
+    font-size: 1.5rem;
+    color: var(--gris1);
+    text-align: center;
+}
+
+.list-holiday .right{
+    width: 0.75rem;
+    height: 1.32rem;
+    position: absolute;
+    margin: -1.2rem 0rem 0rem 33.45rem;
+}
+
+.list-holiday .left{
+    width: 0.75rem;
+    height: 1.32rem;
+    position: absolute;
+    margin: -1.2rem 0rem 0rem 0rem;
+}
+
+.list-holiday h3{
+    font-size: var(--size-parrafo);
+    color: #000000;
+    margin-top: 32rem;
+}
+
+.list-holiday .diwali{
+    margin-top: 1.5rem;
+    width: 34.28rem;
+    height: 8rem;
+    border-radius: 1.5rem;
+    border: 0.1rem solid var(--gris3);
+    text-decoration: none;
+    font-size: var(--size-parrafo);
+    color: #3A3A3A;
+    font-weight: bold;
+    padding: 1.5rem 0rem 0rem 1.33rem;
+}
+.list-holiday .mes{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 40.2rem 0rem 0rem 1.33rem;
+}
+
+.list-holiday .dia{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 40.2rem 0rem 0rem 26.8rem;
+}
+
+.list-holiday .puja{
+    margin-top: 1.5rem;
+    width: 34.28rem;
+    height: 8rem;
+    border-radius: 1.5rem;
+    border: 0.1rem solid var(--gris3);
+    text-decoration: none;
+    font-size: var(--size-parrafo);
+    color: #3A3A3A;
+    font-weight: bold;
+    padding: 1.5rem 0rem 0rem 1.33rem;
+}
+.list-holiday .mes_2{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 49.1rem 0rem 0rem 1.33rem;
+}
+
+.list-holiday .dia_2{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 49.1rem 0rem 0rem 27.8rem;
+}
+
+.list-holiday .dooj{
+    margin-top: 1.5rem;
+    width: 34.28rem;
+    height: 8rem;
+    border-radius: 1.5rem;
+    border: 0.1rem solid var(--gris3);
+    text-decoration: none;
+    font-size: var(--size-parrafo);
+    color: #3A3A3A;
+    font-weight: bold;
+    padding: 1.5rem 0rem 0rem 1.33rem;
+    background: #FFFFFF;
+    z-index: 2;
+}
+.list-holiday .mes_3{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 58rem 0rem 0rem 1.33rem;
+    z-index: 2;
+}
+
+.list-holiday .dia_3{
+    font-size: var(--size-parrafo3);
+    color: var(--gris2);
+    position: absolute;
+    margin: 58rem 0rem 0rem 27.8rem;
+    z-index: 2;
+}
+
+.vector{
+    width: 37.5rem;
+    height: 13.18rem;
+    position: absolute;
+    margin: 51.7rem 0rem 0rem -1.5rem;
+    z-index: 1;
+}
+
+section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.5rem 2rem 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
